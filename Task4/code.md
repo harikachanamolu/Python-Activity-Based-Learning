@@ -18,7 +18,7 @@ Develop a Python program to calculate employee salaries based on basic pay, allo
 11. Repeat for all employees.
 12. Stop the program.
 
-## 3.sample
+## 3.sample input
 input
 Enter number of employees: 2
 
