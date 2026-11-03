@@ -18,7 +18,7 @@ Develop a Python program to calculate household electricity bills using progress
 12. Display monthly bills and unusual increases.
 13. Stop the program.
 
-## 3.sampel input
+## 3.sample input
 Enter number of months: 3
 
 Month 1
